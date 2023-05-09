@@ -1,0 +1,9 @@
+load("./Geometric-LWE-Estimator/framework/LWE.sage")
+
+n = 70
+m = n
+q = 3301
+sigma = sqrt(20)
+D_s = build_Gaussian_law(20, 50)
+D_e =
+lwe_instance = 
